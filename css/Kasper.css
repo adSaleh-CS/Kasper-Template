@@ -52,7 +52,7 @@ ul {
 .overlay::before {
   content: "";
   position: absolute;
-  background-color: rgb(0, 0, 0, 75%);
+  background-color: rgb(0, 0, 0, 65%);
   left: 0;
   top: 0;
   width: 100%;
@@ -512,15 +512,6 @@ header nav .form i:hover {
 .video {
   position: relative;
 }
-/* .video::before {
-  content: "";
-  position: absolute;
-  background-color: rgb(0, 0, 0, 45%);
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 99.5%;
-} */
 .video video {
   width: 100%;
 }
@@ -604,15 +595,6 @@ header nav .form i:hover {
   background-image: url("../img/stats.jpg");
   background-size: cover;
 }
-/* .stats::before {
-  content: "";
-  position: absolute;
-  background-color: rgb(0, 0, 0, 45%);
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-} */
 .stats .container {
   position: relative;
   display: flex;
@@ -792,15 +774,6 @@ header nav .form i:hover {
   position: relative;
   color: white;
 }
-/* .quote::before {
-  content: "";
-  position: absolute;
-  background-color: rgb(0, 0, 0, 75%);
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-} */
 .quote .container {
   position: relative;
 }
@@ -941,15 +914,6 @@ header nav .form i:hover {
   position: relative;
   color: white;
 }
-/* .subscribe::before {
-  content: "";
-  position: absolute;
-  background-color: rgb(0, 0, 0, 70%);
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-} */
 .subscribe .container {
   position: relative;
   display: flex;
