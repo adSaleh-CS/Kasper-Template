@@ -229,7 +229,7 @@ header nav .form i:hover {
   background-size: cover;
   position: relative;
 }
-.landing .overlay {
+.landing .overlay-m {
   position: absolute;
   background-color: rgb(0, 0, 0, 10%);
   left: 0;
